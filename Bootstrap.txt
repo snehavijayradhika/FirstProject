@@ -1,0 +1,74 @@
+27/10/2021 
+
+Bootstrap:
+-it html css,and js framework and it is free to use .
+-which is use to design and make your website responsive according to different screen.
+-it provide inbuild to design your website or webapp 
+-Bootstrap5 
+
+There two use ways to use Bootstrap 
+1.CDN link(Content Dilivery Network)
+2.By Downloading
+
+*official website for Bootstrap is 
+getBootstrap.com 
+
+1- .container:it will create one box which takes 15px margine from left and right side of it. 
+2- .container-fluid: it will create one box which takes fullwidth of screen.
+
+*bootstrap color classes 
+1- text-success 
+2- text-danger
+3- text-warning 
+4- text-primary 
+5- text-secondary 
+6- txt-info 
+7- text-dark 
+8- text-white 
+
+*background color classes 
+*button classes 
+*spinner-border and spinner-grow classes  
+*table classes 
+*Image classes 
+
+*Grid Concept : - it use to mahe website content responsive 
+- in grid it has .row class and .col class 
+-in grid row it allowa max 12 col only, if its col size exeeds then remaining will display on new line  
+
+
+  screen size >= 1200px => .xl 
+  screen size >= 992  => .lg 
+  screen size >= 768 => .md 
+  screen size >=576 => .sm 
+  screen size < 576 => 
+
+
+*card classes 
+*bootstrap form 
+  .form-group 
+  .form-control 
+*formvalidation 
+  .was-validated :it will display error if we kepp input control blank.
+  .needs-validation: after pressing submit button it will display error message
+ *to display error for that 
+ .valid-feedback: if input field has value then it will execute 
+ .invalid-feedback : if input field has no value then it will execute 
+
+*how to use carosal 
+*how to use model popup 
+*how to use nav bar 
+*how to use accordian 
+*how to bootstrap example 
+
+
+
+
+
+
+
+
+
+
+
+
